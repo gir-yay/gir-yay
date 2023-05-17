@@ -27,7 +27,7 @@
 - ##### Networking
 - ##### Linux OS
 ##### ⭐I like to explore new technologies.
-##### ⭐I am learning Python and Javascript.
+##### ⭐I am learning Python , Javascript and the SDL2 for C.
 
 <br>
 
@@ -60,16 +60,46 @@
 
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'  style="margin-right:15px;">
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" style="margin-right:15px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="38px" style="margin-right:15px; background-color:white;"/>
+
  </div>
 
 <br><br>
 
 -   #### 💛 Databases :
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90px" style="margin:0 15px 0 60px;"/>
+
+<br><br>
+
+-   #### 🧡 Libraries :
+<div style="display:flex;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg" width="40px" style="margin:0 15px 0 60px;background-color:white;" />
+
+</div>
 <br><br>
 
 -   #### 💚 Tools :
-<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="32px" style="margin:0 15px 0 60px;" />
+
+<div style="display:flex;">
+
+<img  alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="32px" style="margin:0 15px 0 60px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32px" style="margin-right:15px;" />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="32px" style="margin-right:15px;" />
+
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32px" style="margin-right:15px; background-color:white;"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px" style="margin-right:15px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32px" style="margin-right:15px; background-color:white;" />
+
+</div>  
+          
 <br>
 <br>
 
