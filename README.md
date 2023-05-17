@@ -69,7 +69,7 @@
 <br><br>
 
 -   #### 💚 Tools :
-
+<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="32px" style="margin:0 15px 0 60px;" />
 <br>
 <br>
 
