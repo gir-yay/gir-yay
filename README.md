@@ -69,6 +69,5 @@
 <br><br>
 
 -   #### 💚 Tools :
-<center>
-<img src="https://media1.giphy.com/media/l2FSi4zPU5dnLyd7Q4/giphy.gif" width='300px'>
-</center>
+
+<img src="https://media1.giphy.com/media/l2FSi4zPU5dnLyd7Q4/giphy.gif" width='300px' align="center">
