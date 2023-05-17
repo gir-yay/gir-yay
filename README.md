@@ -1,4 +1,4 @@
-<h1 style="font-family:sans serif;color:cyan;text-align:center;">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> This is : </h1>
+<h1 align="center" style="font-family:sans serif;color:cyan;text-align:center;">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> This is : </h1>
 
 <pre style="margin-left:20%;">
       ____   _                _
