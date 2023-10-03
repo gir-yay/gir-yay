@@ -27,7 +27,8 @@
 - ##### Networking
 - ##### Linux OS
 ##### ⭐I like to explore new technologies.
-##### ⭐I am learning Python , Javascript and the SDL2 for C.
+
+
 
 <br>
 
@@ -77,7 +78,6 @@
 -   #### 🧡 Libraries :
 <div style="display:flex;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg" width="40px" style="margin:0 15px 0 60px;background-color:white;" />
 
 </div>
 <br><br>
