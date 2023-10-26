@@ -20,7 +20,7 @@
 
 <br>
  
-##### ⭐ I am a **Computer Science** student at the National School of Applied Science.
+##### ⭐ I am a **Computer Science** student at the National School of Applied Sciences.
 ##### ⭐ I am so curious and interested in :
 - ##### Ethical Hacking
 - ##### Networking
