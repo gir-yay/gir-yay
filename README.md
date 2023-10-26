@@ -5,8 +5,8 @@
 <img src="./img/wave.gif" width = 35px >  <span style="font-size:25px"> This is : <span>
 
 <br>
-<br>
 
+<img src="./img/line.gif"><br><br>
 <pre style="margin-left:150px;">
       ____   _                _
    /    ___)| |     []       | |             
@@ -16,10 +16,6 @@
   \_______/ |_|  |_/|_|/____|\__,___ ||_|  |_|\ ___/     
                                                             
 </pre>
-
-<br>
-<br>
-
 <img src="./img/line.gif"><br><br>
 
 <br>
