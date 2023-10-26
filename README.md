@@ -1,5 +1,12 @@
 
-<span>Hi, <img src="./img/wave.gif" width = 30px > This is : </span>
+<br>
+<h3>Hello World! </h3>
+
+<img src="./img/wave.gif" width = 35px >  <span style="font-size:25px"> This is : <span>
+
+<br>
+<br>
+
 <pre style="margin-left:150px;">
       ____   _                _
    /    ___)| |     []       | |             
@@ -10,6 +17,7 @@
                                                             
 </pre>
 
+<br>
 <br>
 
 <img src="./img/line.gif"><br><br>
@@ -29,7 +37,7 @@
 ##### ⭐I like to explore new technologies.
 
 
-
+<br>
 <br>
 
 <img src="./img/line.gif"><br><br>
@@ -100,6 +108,11 @@
           
 <br>
 <br>
+<br>
+<br>
+
+<img src="./img/line.gif"><br><br>
+
 
 ### **Connect with me** :
 
