@@ -1,4 +1,4 @@
-<h1  style="font-family:sans serif;color:cyan;text-align:center;">Hi <img src="./img/wave.gif" width = 30px > , This is : </h1>
+<h1  style="font-family:sans serif;color:cyan;text-align:center;">Hi  <a><img src="./img/wave.gif" width = 30px ></a> , This is : </h1>
 <pre style="margin-left:150px;">
       ____   _                _
    /    ___)| |     []       | |             
