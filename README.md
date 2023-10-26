@@ -45,7 +45,7 @@
 
  <img width ='32px' src ='./img/c.png'  style="margin:0 15px 0 60px;" >
 
-<img width ='32px'  style="margin-right:15px;" src ='./img/python.png'>
+<img width ='40px'  style="margin-right:15px;" src ='./img/python.png'>
 
  </div>
  
@@ -55,15 +55,15 @@
 
 <div style="display:flex;">
 
-<img width ='32px' src ='./img/html.png' style="margin:0 15px 0 60px;" >
+<img width ='30px' src ='./img/html.png' style="margin:0 15px 0 60px;" >
 
- <img width ='32px' src ='./img/css.png'  style="margin-right:15px;">
+ <img width ='38px'  src ='./img/css.png'  style="margin-right:15px;">
 
- <img width ='32px' src ='./img/js.png'  style="margin-right:15px;">
+ <img width ='30px' src ='./img/js.png'  style="margin-right:15px;">
 
-  <img src="./img/php.png" width="50px" style="margin-right:15px;" />
+  <img src="./img/php.png" width="40px" style="margin-right:15px;" />
 
-  <img src="./img/markdown.png" width="38px" style="margin-right:15px; background-color:white;"/>
+  <img src="./img/markdown.png" width="40px" style="margin-right:15px;"/>
 
  </div>
 
@@ -72,8 +72,8 @@
 -   #### 💛 Databases :
 
 <div style="display:flex;">
-<img src="./img/sql.jfif" width="90px" style="margin:0 15px 0 60px;"/>
-<img src="./img/oracle.png" width="90px" style="margin:0 15px 0 60px;"/>
+<img src="./img/sql.jfif" width="40px" style="margin:0 15px 0 60px;"/>
+<img src="./img/oracle.png" width="40px" style="margin:0 15px 0 60px;"/>
 </div>
 
 
@@ -90,11 +90,11 @@
 
 <div style="display:flex;">
 
-<img src="./img/linux.png" width="32px" style="margin-right:15px;" />
+<img src="./img/Linux.png" width="40px" style="margin-right:15px;" />
 
-<img  src="./img/github.png" width="32px" style="margin-right:15px; background-color:white;"  />
+<img  src="./img/github.png" width="50px" style="margin-right:15px; background-color:white;"  />
 
-<img src="./img/git.png" width="32px" style="margin-right:15px" />
+<img src="./img/git.png" width="35px" style="margin-right:15px" />
 
 </div>  
           
@@ -104,9 +104,9 @@
 ### **Connect with me** :
 
 <a href="https://www.linkedin.com/in/ghizlane-rahmouni/" target="_blank">
-<img align="left" width="30px" style="margin: 10px;" src="./img/linkedin.png" />
+<img align="left" width="60px" style="margin: 10px;" src="./img/linkedin.png" />
 </a>
-<a href="mailto:ghizlane.ra100@gmail.com" target="_blank"><img style="margin: 10px;"  align="left"  width="30px" src="./img/gmail.png" />
+<a href="mailto:ghizlane.ra100@gmail.com" target="_blank"><img style="margin: 2px;"  align="left"  width="35px" src="./img/gmail.png" />
 </a>
 <br>
 <img src="./img/cat.gif" width='300px' align="right">
