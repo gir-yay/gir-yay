@@ -1,5 +1,5 @@
 
-<p style="font-family:sans serif;color:cyan;text-align:center;font-size:60px;">Hi, <img src="./img/wave.gif" width = 30px > This is : </p>
+<p style="font-family:sans serif;color:cyan;text-align:center;font-size:100px;">Hi, <img src="./img/wave.gif" width = 30px > This is : </p>
 <pre style="margin-left:150px;">
       ____   _                _
    /    ___)| |     []       | |             
