@@ -15,7 +15,7 @@
 
 <br>
 
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px style="margin-right:10px;">
+<img src = "./img/dev.gif" width = 50px style="margin-right:10px;">
 <span style="font-size:1.8rem ;font-family:sans serif; font-weight:bold">About Me :<span>
 
 <br>
