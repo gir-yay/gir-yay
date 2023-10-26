@@ -1,5 +1,5 @@
 
-<span style="font-size:6rem">Hi, <img src="./img/wave.gif" width = 30px > This is : </span>
+<span>Hi, <img src="./img/wave.gif" width = 30px > This is : </span>
 <pre style="margin-left:150px;">
       ____   _                _
    /    ___)| |     []       | |             
@@ -43,9 +43,9 @@
 
 <div style="display:flex;">
 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'  style="margin:0 15px 0 60px;" >
+ <img width ='32px' src =''  style="margin:0 15px 0 60px;" >
 
-<img width ='32px'  style="margin-right:15px;" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width ='32px'  style="margin-right:15px;" src =''>
 
  </div>
  
