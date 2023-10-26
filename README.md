@@ -43,9 +43,9 @@
 
 <div style="display:flex;">
 
- <img width ='32px' src =''  style="margin:0 15px 0 60px;" >
+ <img width ='32px' src ='./img/c.png'  style="margin:0 15px 0 60px;" >
 
-<img width ='32px'  style="margin-right:15px;" src =''>
+<img width ='32px'  style="margin-right:15px;" src ='./img/python.png'>
 
  </div>
  
@@ -55,15 +55,15 @@
 
 <div style="display:flex;">
 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' style="margin:0 15px 0 60px;" >
+<img width ='32px' src ='./img/html.png' style="margin:0 15px 0 60px;" >
 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'  style="margin-right:15px;">
+ <img width ='32px' src ='./img/css.png'  style="margin-right:15px;">
 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'  style="margin-right:15px;">
+ <img width ='32px' src ='./img/js.png'  style="margin-right:15px;">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" style="margin-right:15px;" />
+  <img src="./img/php.png" width="50px" style="margin-right:15px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="38px" style="margin-right:15px; background-color:white;"/>
+  <img src="./img/markdown.png" width="38px" style="margin-right:15px; background-color:white;"/>
 
  </div>
 
@@ -71,7 +71,11 @@
 
 -   #### 💛 Databases :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90px" style="margin:0 15px 0 60px;"/>
+<div style="display:flex;">
+<img src="./img/sql.jfif" width="90px" style="margin:0 15px 0 60px;"/>
+<img src="./img/oracle.png" width="90px" style="margin:0 15px 0 60px;"/>
+</div>
+
 
 <br><br>
 
@@ -86,17 +90,11 @@
 
 <div style="display:flex;">
 
-<img  alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="32px" style="margin:0 15px 0 60px;" />
+<img src="./img/linux.png" width="32px" style="margin-right:15px;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32px" style="margin-right:15px;" />
+<img  src="./img/github.png" width="32px" style="margin-right:15px; background-color:white;"  />
 
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="32px" style="margin-right:15px;" />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32px" style="margin-right:15px; background-color:white;"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px" style="margin-right:15px" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32px" style="margin-right:15px; background-color:white;" />
+<img src="./img/git.png" width="32px" style="margin-right:15px" />
 
 </div>  
           
@@ -106,9 +104,9 @@
 ### **Connect with me** :
 
 <a href="https://www.linkedin.com/in/ghizlane-rahmouni/" target="_blank">
-<img align="left" width="30px" style="margin: 10px;" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+<img align="left" width="30px" style="margin: 10px;" src="./img/linkedin.png" />
 </a>
-<a href="mailto:ghizlane.ra100@gmail.com" target="_blank"><img style="margin: 10px;"  align="left" alt="mariabarkouzou | GMail" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+<a href="mailto:ghizlane.ra100@gmail.com" target="_blank"><img style="margin: 10px;"  align="left"  width="30px" src="./img/gmail.png" />
 </a>
 <br>
-<img src="https://media1.giphy.com/media/l2FSi4zPU5dnLyd7Q4/giphy.gif" width='300px' align="right">
+<img src="./img/cat.gif" width='300px' align="right">
