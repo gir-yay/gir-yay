@@ -26,10 +26,6 @@
 <br>
  
 ##### ⭐ I am a **Computer Science** student at the National School of Applied Sciences.
-##### ⭐ I am so curious and interested in :
-- ##### Ethical Hacking
-- ##### Networking
-- ##### Linux OS
 ##### ⭐I like to explore new technologies.
 
 
