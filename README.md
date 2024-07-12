@@ -27,6 +27,7 @@
  
 ##### ⭐ I am a **Computer Science** student at the National School of Applied Sciences.
 ##### ⭐I like to explore new technologies.
+##### ⭐Currently learning AWS 
 
 
 <br>
@@ -34,7 +35,7 @@
 
 <img src="./img/line.gif"><br><br>
 
-<img src="./img/giphy.gif" width ="25" style="margin-right:15px;"> <br>
+<img src="./img/giphy.gif" width= 45px style="margin-right:15px;"> 
 <span style="font-size:1.8rem ;font-family:sans serif; font-weight:bold">Skills :<span>
 
 <br>
@@ -43,9 +44,9 @@
 
 <div style="display:flex;">
 
- <img width ='32px' src ='./img/c.png'  style="margin:0 15px 0 60px;" >
-
-<img width ='40px'  style="margin-right:15px;" src ='./img/python.png'>
+ <img  src ='./img/c.png'  style="margin:0 15px 0 60px;" >
+ <img  src ='./img/java.png' style="margin-right : 15px">
+<img  style="margin-right:15px;" src ='./img/python.png'>
 
  </div>
  
@@ -55,15 +56,15 @@
 
 <div style="display:flex;">
 
-<img width ='30px' src ='./img/html.png' style="margin:0 15px 0 60px;" >
+<img src ='./img/html.png' style="margin:0 15px 0 60px;" >
 
- <img width ='38px'  src ='./img/css.png'  style="margin-right:15px;">
+ <img  src ='./img/css.png'  style="margin-right:15px;">
 
- <img width ='30px' src ='./img/js.png'  style="margin-right:15px;">
+ <img  src ='./img/js.png'  style="margin-right:15px;">
 
-  <img src="./img/php.png" width="40px" style="margin-right:15px;" />
+  <img src="./img/php.png" style="margin-right:15px;" />
 
-  <img src="./img/markdown.png" width="40px" style="margin-right:15px;"/>
+  <img src="./img/markdown.png" style="margin-right:15px;"/>
 
  </div>
 
@@ -72,16 +73,18 @@
 -   #### 💛 Databases :
 
 <div style="display:flex;">
-<img src="./img/sql.jfif" width="40px" style="margin:0 15px 0 60px;"/>
-<img src="./img/oracle.png" width="40px" style="margin:0 15px 0 60px;"/>
+<img src="./img/mysql.png"  style="margin:0 15px 0 60px;"/>
+<img src="./img/postgresql.png"/>
 </div>
 
 
 <br><br>
 
--   #### 🧡 Libraries :
+-   #### 🧡 Frameworks :
 <div style="display:flex;">
+<img  src ='./img/Laravel.png'  style="margin:0 15px 0 60px;">
 
+<img src="./img/Django.png" style="margin-right:15px;" />
 
 </div>
 <br><br>
@@ -90,11 +93,11 @@
 
 <div style="display:flex;">
 
-<img src="./img/Linux.png" width="40px" style="margin-right:15px;" />
+<img src="./img/Linux.png" style="margin:0 15px 0 60px;" />
 
-<img  src="./img/github.png" width="50px" style="margin-right:15px; background-color:white;"  />
+<img  src="./img/github.png"  style="margin-right:15px; background-color:white;"  />
 
-<img src="./img/git.png" width="35px" style="margin-right:15px" />
+<img src="./img/git.png"  style="margin-right:15px" />
 
 </div>  
           
@@ -109,9 +112,12 @@
 ### **Connect with me** :
 
 <a href="https://www.linkedin.com/in/ghizlane-rahmouni/" target="_blank">
-<img align="left" width="60px" style="margin: 10px;" src="./img/linkedin.png" />
+<img align="left" style="margin-right: 15px;" src="./img/linkedin.png" />
 </a>
-<a href="mailto:ghizlane.ra100@gmail.com" target="_blank"><img style="margin: 2px;"  align="left"  width="35px" src="./img/gmail.png" />
+<a href="mailto:ghizlane.ra100@gmail.com" target="_blank"><img   align="left" src="./img/gmail.png" style="margin-right: 15px;" />
+</a>
+<a href="https://www.credly.com/users/ghizlane-rahmouni.gg" target="_blank">
+<img align="left" style="margin-right: 15px;" src="./img/Credly.png" />
 </a>
 <br>
 <img src="./img/cat.gif" width='300px' align="right">
