@@ -116,7 +116,7 @@
 </a>
 <a href="mailto:ghizlane.ra100@gmail.com" target="_blank"><img   align="left" src="./img/gmail.png" style="margin-right: 15px;" />
 </a>
-<a href="https://www.credly.com/users/ghizlane-rahmouni.gg" target="_blank">
+<a href="https://www.credly.com/users/rahmouni-ghizlane" target="_blank">
 <img align="left" style="margin-right: 15px;" src="./img/Credly.png" />
 </a>
 <br>
