@@ -1,4 +1,4 @@
-<img src="./img/gg_gif.gif" >
+<img src="./img/gg_gif.gif" />
 <!--
 <br>
 <h3>Hello World! </h3>
