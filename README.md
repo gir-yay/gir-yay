@@ -16,13 +16,13 @@
 <span style="font-size:1.8rem ;font-family:sans serif; font-weight:bold">About Me :<span>
 
 
-- ⭐ I’m currently working on **Becoming a T-shaped professional**
+ ⭐ I’m currently working on **Becoming a T-shaped professional**.
 
-- ⭐ I’m currently learning **AWS, Azure and K8s**
+ ⭐ I’m on my way to mastering **AWS, Azure and K8s**.
 
-- ⭐ I’m looking to collaborate on **open source projects**
+ ⭐ I’m looking to collaborate on **open source projects**.
 
-- ⭐ How to reach me **ghizlane.ra100@gmail.com**
+ ⭐ Reach me at **ghizlane.ra100@gmail.com**
 
 <br><br>
 
