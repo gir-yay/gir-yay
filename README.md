@@ -1,19 +1,22 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gir-yay&label=Profile%20views&color=0e75b6&style=flat" alt="gir-yay" /> </p>
+
 <br>
 
 <h1 align="center">Hi 👋, I'm Ghizlane</h1>
 <h3 align="center">A CS engineer, a Cloud & DevOps Enthusiat and a lifelong learner from Morocco.</h3>
+
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gir-yay&label=Profile%20views&color=0e75b6&style=flat" alt="gir-yay" /> </p>
 
 <br>
 <img src="./img/line.gif"><br><br>
-
 <br>
 
 <img src = "./img/dev.gif" width = 50px style="margin-right:10px;">
-<span style="font-size:1.8rem ;font-family:sans serif; font-weight:bold">About Me :<span>
+<!--<span style="font-size:1.8rem ;font-family:sans serif; font-weight:bold">About Me :<span>-->
+
+<h3 align="left">About me:</h3>
 
 
  ⭐ I’m currently working on **Becoming a T-shaped professional**.
@@ -26,7 +29,6 @@
 
 <br><br>
 
-<img src="./img/line.gif"><br><br>
 
 
 
