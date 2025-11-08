@@ -1,4 +1,4 @@
-<!--
+
 <br>
 <h3>Hello World! </h3>
 
@@ -17,9 +17,9 @@
                                                             
 </pre>
 
--->
 
-<img src="./img/gg_gif.gif" width="1000px"> <br>
+
+<!-- <img src="./img/gg_gif.gif" width="1000px"> <br> -->
 
 <img src="./img/line.gif"><br><br>
 
