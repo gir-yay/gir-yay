@@ -57,7 +57,7 @@
 </a>
 <p align="left">
 <a href="https://twitter.com/giryaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giryaay" height="45" width="55" /></a>
-<a href="https://discord.gg/gir.yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gir.yay" height="45" width="55" /></a>
+<a href="https://discord.gg/gir.yay#7643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gir.yay" height="45" width="55" /></a>
 </p>
 
 <br>
